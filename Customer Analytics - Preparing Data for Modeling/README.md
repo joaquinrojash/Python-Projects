@@ -4,7 +4,7 @@ This repository contains a machine learning pipeline for customer segmentation u
 
 ## 📁 Files
 
-- `notebook.ipynb`: Main Jupyter notebook containing code for data analysis and model building.
+- `customer-segmentation-ml.ipynb`: Main Jupyter notebook containing code for data analysis and model building.
 - `customer_train.csv`: Dataset with customer features for training and analysis.
 - `requirements.txt`: List of Python packages required to run the notebook.
 
