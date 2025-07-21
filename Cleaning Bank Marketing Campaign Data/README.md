@@ -4,7 +4,7 @@ This project performs a comprehensive analysis of a bank's direct marketing camp
 
 ## 📁 Project Structure
 
-- `notebook.ipynb`: Main Jupyter Notebook with analysis and visualizations.
+- `bank-campaign-analysis.ipynb`: Main Jupyter Notebook with analysis and visualizations.
 - `client.csv`: Contains demographic and personal data about bank clients.
 - `campaign.csv`: Details on the campaign efforts including outcome.
 - `bank_marketing.csv`: Combined dataset with client and campaign info.
