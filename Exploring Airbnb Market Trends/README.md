@@ -16,13 +16,13 @@ This project performs an exploratory data analysis (EDA) on Airbnb listings by c
 - Analyzes distribution of room types and pricing.
 - Identifies earliest and latest reviews in the dataset.
 
-##📊 Example Insights
+## 📊 Example Insights
 
 - Earliest and most recent Airbnb review dates.
 - Number of listings by room type.
 - Distribution of prices across room types.
 
-🔓 License
+## 🔓 License
 
 MIT License — feel free to use, modify, and distribute.
 
