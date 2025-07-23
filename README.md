@@ -94,7 +94,7 @@ Analyze and visualize over a century of Nobel Prize winners to uncover global tr
 
 If you're an employer, collaborator, or fellow data enthusiast, feel free to reach out. I'm always open to new opportunities and challenges.
 
-> 📧 joaquinrojash@gmail.com  
+> 📧 joaquinrojash@hotmail.com  
 > 🌐 [LinkedIn](https://linkedin.com/in/joaquinrojash)  
 > 🐙 [GitHub Profile](https://github.com/joaquinrojash)
 
